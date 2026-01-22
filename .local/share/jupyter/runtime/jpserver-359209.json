@@ -1,0 +1,13 @@
+{
+  "base_url": "/node/kal/40485/",
+  "hostname": "localhost",
+  "password": true,
+  "pid": 359209,
+  "port": 40485,
+  "root_dir": "/home/jzha826",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://localhost:40485/node/kal/40485/",
+  "version": "2.17.0"
+}

@@ -1,0 +1,10 @@
+c.NotebookApp.ip = '*'
+c.NotebookApp.port = 13602
+c.NotebookApp.port_retries = 0
+c.NotebookApp.password = u'sha1:AMLPjWUSy1xXryzx:b59743220eb0a219dca45d2c6d3bdfae881114b3'
+c.NotebookApp.base_url = '/node/kal/13602/'
+c.NotebookApp.open_browser = False
+c.NotebookApp.allow_origin = '*'
+c.NotebookApp.notebook_dir = '/home/jzha826'
+c.NotebookApp.disable_check_xsrf = True
+c.FileContentsManager.preferred_dir ='/home/jzha826/econ470/a0/work'

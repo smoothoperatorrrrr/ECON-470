@@ -1,0 +1,13 @@
+{
+  "shell_port": 41275,
+  "iopub_port": 49509,
+  "stdin_port": 60917,
+  "control_port": 42611,
+  "hb_port": 41221,
+  "ip": "127.0.0.1",
+  "key": "08b51aaf-18d1d9adfef054a2e98108fa",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "econ470-a0kernel",
+  "jupyter_session": "/home/jzha826/econ470/a0/work/scratch.ipynb"
+}

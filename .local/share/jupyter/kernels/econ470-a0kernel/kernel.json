@@ -1,0 +1,15 @@
+{
+ "argv": [
+  "/home/jzha826/econ470/a0/pyenv/bin/python",
+  "-Xfrozen_modules=off",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python (econ470)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

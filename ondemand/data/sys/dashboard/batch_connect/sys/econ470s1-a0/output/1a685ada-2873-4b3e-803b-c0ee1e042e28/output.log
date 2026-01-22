@@ -1,0 +1,44 @@
+Script starting...
+Waiting for Jupyter Notebook server to open port 13602...
+TIMING - Starting wait at: Wed Jan 14 04:18:51 PM EST 2026
+TIMING - Starting main script at: Wed Jan 14 04:18:51 PM EST 2026
+Installed kernelspec econ470-a0kernel in /home/jzha826/.local/share/jupyter/kernels/econ470-a0kernel
+TIMING - Starting jupyter at: Wed Jan 14 04:19:10 PM EST 2026
++ jupyter notebook --config=/home/jzha826/ondemand/data/sys/dashboard/batch_connect/sys/econ470s1-a0/output/1a685ada-2873-4b3e-803b-c0ee1e042e28/config.py
+[I 2026-01-14 16:19:12.763 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-01-14 16:19:12.767 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[W 2026-01-14 16:19:12.769 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-14 16:19:12.769 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-14 16:19:12.769 LabApp] 'port_retries' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-14 16:19:12.769 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-14 16:19:12.769 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-14 16:19:12.769 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-14 16:19:12.769 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-14 16:19:12.769 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-14 16:19:12.769 LabApp] 'disable_check_xsrf' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-14 16:19:12.772 ServerApp] ServerApp.password config is deprecated in 2.0. Use PasswordIdentityProvider.hashed_password.
+[W 2026-01-14 16:19:12.772 ServerApp] notebook_dir is deprecated, use root_dir
+[I 2026-01-14 16:19:12.772 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-01-14 16:19:12.776 ServerApp] notebook | extension was successfully linked.
+[I 2026-01-14 16:19:12.780 ServerApp] Writing Jupyter server cookie secret to /home/jzha826/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2026-01-14 16:19:13.072 ServerApp] notebook_shim | extension was successfully linked.
+[W 2026-01-14 16:19:13.118 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 2026-01-14 16:19:13.118 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-01-14 16:19:13.121 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-01-14 16:19:13.122 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-01-14 16:19:13.131 LabApp] JupyterLab extension loaded from /local/5261/econ470001/conda-env-py313/lib/python3.13/site-packages/jupyterlab
+[I 2026-01-14 16:19:13.131 LabApp] JupyterLab application directory is /scion/5261/econ470001/conda-env-py313/share/jupyter/lab
+[I 2026-01-14 16:19:13.132 LabApp] Extension Manager is 'pypi'.
+[I 2026-01-14 16:19:13.229 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-01-14 16:19:13.236 ServerApp] notebook | extension was successfully loaded.
+[I 2026-01-14 16:19:13.237 ServerApp] Serving notebooks from local directory: /home/jzha826
+[I 2026-01-14 16:19:13.237 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2026-01-14 16:19:13.237 ServerApp] http://localhost:13602/node/kal/13602/tree
+[I 2026-01-14 16:19:13.237 ServerApp]     http://127.0.0.1:13602/node/kal/13602/tree
+[I 2026-01-14 16:19:13.237 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2026-01-14 16:19:13.266 ServerApp] No web browser found: Error('could not locate runnable browser').
+[I 2026-01-14 16:19:13.576 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+Discovered Jupyter Notebook server listening on port 13602!
+TIMING - Wait ended at: Wed Jan 14 04:19:15 PM EST 2026
+Generating connection YAML file...
+[2026-01-14T18:19:04.081] error: *** JOB 3126 ON kal CANCELLED AT 2026-01-14T18:19:04 DUE TO TIME LIMIT ***

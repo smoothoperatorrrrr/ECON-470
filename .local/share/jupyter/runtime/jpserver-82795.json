@@ -1,0 +1,13 @@
+{
+  "base_url": "/node/kal/13602/",
+  "hostname": "localhost",
+  "password": true,
+  "pid": 82795,
+  "port": 13602,
+  "root_dir": "/home/jzha826",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://localhost:13602/node/kal/13602/",
+  "version": "2.17.0"
+}

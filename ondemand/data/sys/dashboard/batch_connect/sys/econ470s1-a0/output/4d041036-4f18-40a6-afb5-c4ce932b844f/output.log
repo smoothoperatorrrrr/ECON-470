@@ -1,0 +1,116 @@
+Script starting...
+Waiting for Jupyter Notebook server to open port 40485...
+TIMING - Starting wait at: Wed Jan 21 10:12:12 PM EST 2026
+TIMING - Starting main script at: Wed Jan 21 10:12:12 PM EST 2026
+TIMING - Starting jupyter at: Wed Jan 21 10:12:13 PM EST 2026
++ jupyter notebook --config=/home/jzha826/ondemand/data/sys/dashboard/batch_connect/sys/econ470s1-a0/output/4d041036-4f18-40a6-afb5-c4ce932b844f/config.py
+[I 2026-01-21 22:12:14.952 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-01-21 22:12:14.954 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[W 2026-01-21 22:12:14.955 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-21 22:12:14.955 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-21 22:12:14.955 LabApp] 'port_retries' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-21 22:12:14.955 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-21 22:12:14.955 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-21 22:12:14.955 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-21 22:12:14.955 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-21 22:12:14.955 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-21 22:12:14.955 LabApp] 'disable_check_xsrf' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2026-01-21 22:12:14.956 ServerApp] ServerApp.password config is deprecated in 2.0. Use PasswordIdentityProvider.hashed_password.
+[W 2026-01-21 22:12:14.956 ServerApp] notebook_dir is deprecated, use root_dir
+[I 2026-01-21 22:12:14.956 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-01-21 22:12:14.958 ServerApp] notebook | extension was successfully linked.
+[I 2026-01-21 22:12:15.412 ServerApp] notebook_shim | extension was successfully linked.
+[W 2026-01-21 22:12:15.439 ServerApp] WARNING: The Jupyter server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 2026-01-21 22:12:15.440 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-01-21 22:12:15.441 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-01-21 22:12:15.441 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-01-21 22:12:15.447 LabApp] JupyterLab extension loaded from /local/5261/econ470001/conda-env-py313/lib/python3.13/site-packages/jupyterlab
+[I 2026-01-21 22:12:15.447 LabApp] JupyterLab application directory is /scion/5261/econ470001/conda-env-py313/share/jupyter/lab
+[I 2026-01-21 22:12:15.448 LabApp] Extension Manager is 'pypi'.
+[I 2026-01-21 22:12:15.513 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-01-21 22:12:15.516 ServerApp] notebook | extension was successfully loaded.
+[I 2026-01-21 22:12:15.517 ServerApp] Serving notebooks from local directory: /home/jzha826
+[I 2026-01-21 22:12:15.517 ServerApp] Jupyter Server 2.17.0 is running at:
+[I 2026-01-21 22:12:15.517 ServerApp] http://localhost:40485/node/kal/40485/tree
+[I 2026-01-21 22:12:15.517 ServerApp]     http://127.0.0.1:40485/node/kal/40485/tree
+[I 2026-01-21 22:12:15.517 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2026-01-21 22:12:15.528 ServerApp] No web browser found: Error('could not locate runnable browser').
+[I 2026-01-21 22:12:15.717 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+Discovered Jupyter Notebook server listening on port 40485!
+TIMING - Wait ended at: Wed Jan 21 10:12:18 PM EST 2026
+Generating connection YAML file...
+[I 2026-01-21 22:12:24.007 ServerApp] User a97d366767c04a25849de579047b1f86 logged in.
+[I 2026-01-21 22:12:24.009 ServerApp] 302 POST /node/kal/40485/login (a97d366767c04a25849de579047b1f86@192.168.24.99) 3.04ms
+[I 2026-01-21 22:12:24.057 ServerApp] 302 GET /node/kal/40485/ (@192.168.24.99) 0.99ms
+[I 2026-01-21 22:19:17.556 ServerApp] User 1d3f41db5eec4b839b9cc8ec7acc5919 logged in.
+[I 2026-01-21 22:19:17.557 ServerApp] 302 POST /node/kal/40485/login (1d3f41db5eec4b839b9cc8ec7acc5919@192.168.24.99) 2.94ms
+[I 2026-01-21 22:19:17.601 ServerApp] 302 GET /node/kal/40485/ (@192.168.24.99) 0.55ms
+/local/5261/econ470001/conda-env-py313/lib/python3.13/site-packages/nbformat/__init__.py:96: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+[I 2026-01-21 22:19:20.944 ServerApp] Writing notebook-signing key to /home/jzha826/.local/share/jupyter/notebook_secret
+[W 2026-01-21 22:19:20.967 ServerApp] Notebook econ470/a0/work/scratch.ipynb is not trusted
+[W 2026-01-21 22:19:21.953 ServerApp] Notebook econ470/a0/work/scratch.ipynb is not trusted
+[I 2026-01-21 22:19:22.353 ServerApp] Kernel started: d1a62e6c-947c-42f3-8ce2-d66f522bd401
+[I 2026-01-21 22:19:23.759 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[W 2026-01-21 22:19:23.760 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-01-21 22:19:23.897 ServerApp] Starting buffering for d1a62e6c-947c-42f3-8ce2-d66f522bd401:1f6ea13d-ab86-4a0d-9bf4-5edbe48fc9d5
+[I 2026-01-21 22:19:23.933 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[I 2026-01-21 22:19:24.015 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[I 2026-01-21 22:19:28.670 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[W 2026-01-21 22:19:30.967 ServerApp] Notebook econ470/a0/work/Rscratch.ipynb is not trusted
+[I 2026-01-21 22:19:31.821 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[W 2026-01-21 22:19:31.965 ServerApp] Notebook econ470/a0/work/Rscratch.ipynb is not trusted
+[I 2026-01-21 22:19:32.408 ServerApp] Kernel started: 73f5f644-73cc-4bac-bad9-65235f562d5a
+[I 2026-01-21 22:19:33.223 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.
+[I 2026-01-21 22:19:33.364 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.
+[I 2026-01-21 22:19:33.448 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.
+[I 2026-01-21 22:19:34.302 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.
+[I 2026-01-21 22:19:38.960 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.
+[I 2026-01-21 22:19:53.426 ServerApp] User e86f0708f3374e7599c869a96ba99c49 logged in.
+[I 2026-01-21 22:19:53.427 ServerApp] 302 POST /node/kal/40485/login (e86f0708f3374e7599c869a96ba99c49@192.168.24.99) 2.69ms
+[I 2026-01-21 22:19:53.475 ServerApp] 302 GET /node/kal/40485/ (@192.168.24.99) 0.88ms
+[I 2026-01-21 22:19:54.647 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[I 2026-01-21 22:19:54.747 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.
+[I 2026-01-21 22:27:48.099 ServerApp] Starting buffering for 73f5f644-73cc-4bac-bad9-65235f562d5a:8ad3f6b6-8a33-4dc1-8128-a7a5959a60af
+[I 2026-01-21 22:27:53.747 ServerApp] Starting buffering for d1a62e6c-947c-42f3-8ce2-d66f522bd401:c0f0b2f5-e2b9-46f9-8f36-42351b4dbefa
+[I 2026-01-21 22:54:04.068 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[I 2026-01-21 22:54:04.069 ServerApp] Restoring connection for d1a62e6c-947c-42f3-8ce2-d66f522bd401:c0f0b2f5-e2b9-46f9-8f36-42351b4dbefa
+[I 2026-01-21 22:54:04.236 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.
+[I 2026-01-21 22:54:04.236 ServerApp] Restoring connection for 73f5f644-73cc-4bac-bad9-65235f562d5a:8ad3f6b6-8a33-4dc1-8128-a7a5959a60af
+[I 2026-01-21 22:54:28.616 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[I 2026-01-21 22:54:28.710 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.
+[W 2026-01-21 22:54:28.717 ServerApp] Notebook econ470/a0/work/Rscratch.ipynb is not trusted
+[I 2026-01-21 22:54:28.907 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.
+[I 2026-01-21 22:54:53.746 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.
+/local/5261/econ470001/conda-env-py313/lib/python3.13/site-packages/nbformat/__init__.py:96: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+[W 2026-01-21 22:54:56.833 ServerApp] Notebook econ470/a0/work/scratch.ipynb is not trusted
+[I 2026-01-21 22:54:57.654 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[I 2026-01-21 22:54:57.738 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.
+[W 2026-01-21 22:54:57.741 ServerApp] Notebook econ470/a0/work/scratch.ipynb is not trusted
+[I 2026-01-21 22:54:57.955 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[I 2026-01-21 22:56:29.147 ServerApp] Saving file at /econ470/a0/work/Rscratch.ipynb
+[I 2026-01-21 22:56:57.970 ServerApp] Saving file at /econ470/a0/work/scratch.ipynb
+[I 2026-01-21 22:57:55.796 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[I 2026-01-21 22:57:55.887 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.
+[I 2026-01-21 22:57:56.168 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[I 2026-01-21 22:58:00.787 ServerApp] Kernel restarted: d1a62e6c-947c-42f3-8ce2-d66f522bd401
+[I 2026-01-21 22:58:00.914 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[I 2026-01-21 22:58:47.704 ServerApp] New terminal with automatic name: 1
+[I 2026-01-21 22:58:48.482 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[I 2026-01-21 22:58:48.563 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.
+[I 2026-01-21 22:59:08.243 ServerApp] New terminal with automatic name: 2
+[I 2026-01-21 22:59:09.021 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[I 2026-01-21 22:59:09.139 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.
+[I 2026-01-21 22:59:56.108 ServerApp] Saving file at /econ470/a0/work/scratch.ipynb
+[I 2026-01-21 23:30:39.197 ServerApp] New terminal with automatic name: 3
+[I 2026-01-21 23:30:40.634 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[I 2026-01-21 23:30:40.735 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.
+[I 2026-01-21 23:31:32.140 ServerApp] New terminal with automatic name: 4
+[I 2026-01-21 23:31:33.070 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[I 2026-01-21 23:31:33.174 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.
+[I 2026-01-21 23:32:56.149 ServerApp] Saving file at /econ470/a0/work/Rscratch.ipynb
+[I 2026-01-21 23:40:04.561 ServerApp] New terminal with automatic name: 5
+[I 2026-01-21 23:40:05.545 ServerApp] Connecting to kernel d1a62e6c-947c-42f3-8ce2-d66f522bd401.
+[I 2026-01-21 23:40:05.627 ServerApp] Connecting to kernel 73f5f644-73cc-4bac-bad9-65235f562d5a.

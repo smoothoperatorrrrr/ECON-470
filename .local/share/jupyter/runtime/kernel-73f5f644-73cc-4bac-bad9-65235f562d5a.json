@@ -1,0 +1,13 @@
+{
+  "shell_port": 37393,
+  "iopub_port": 38167,
+  "stdin_port": 48711,
+  "control_port": 44765,
+  "hb_port": 47659,
+  "ip": "127.0.0.1",
+  "key": "0a7a3d74-3f49ed1cfe95978a64bd4dbc",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "ir",
+  "jupyter_session": "/home/jzha826/econ470/a0/work/Rscratch.ipynb"
+}

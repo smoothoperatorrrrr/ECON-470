@@ -1,0 +1,21 @@
+{
+  "job_name": "jupyter",
+  "workdir": "/home/jzha826/ondemand/data/sys/dashboard/batch_connect/sys/econ470s1-a0/output/1a685ada-2873-4b3e-803b-c0ee1e042e28",
+  "output_path": "/home/jzha826/ondemand/data/sys/dashboard/batch_connect/sys/econ470s1-a0/output/1a685ada-2873-4b3e-803b-c0ee1e042e28/output.log",
+  "shell_path": "/bin/bash",
+  "accounting_id": "a0_econ470s1",
+  "job_environment": {
+    "assignment_label": "econ470",
+    "assignment_number": 0,
+    "home_subdir_work": "econ470/a0/work",
+    "reset_assignment": false
+  },
+  "native": [
+    "-t",
+    "0-2",
+    "-c",
+    "4",
+    "--mem=24G",
+    "--dependency=singleton"
+  ]
+}
